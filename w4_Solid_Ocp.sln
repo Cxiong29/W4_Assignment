@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w4_Solid_Ocp", "w4_Solid_Ocp.csproj", "{DB8EC4CD-5032-4D1C-87DF-0AAAE54B280D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8EC4CD-5032-4D1C-87DF-0AAAE54B280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8EC4CD-5032-4D1C-87DF-0AAAE54B280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8EC4CD-5032-4D1C-87DF-0AAAE54B280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8EC4CD-5032-4D1C-87DF-0AAAE54B280D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
